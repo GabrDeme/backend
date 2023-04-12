@@ -1,0 +1,5 @@
+C:\Users\53144094889\Desktop\Back-end\IMC definitivo\obj\Debug\net7.0\IMC definitivo.csproj.AssemblyReference.cache
+C:\Users\53144094889\Desktop\Back-end\IMC definitivo\obj\Debug\net7.0\IMC definitivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53144094889\Desktop\Back-end\IMC definitivo\obj\Debug\net7.0\IMC definitivo.AssemblyInfoInputs.cache
+C:\Users\53144094889\Desktop\Back-end\IMC definitivo\obj\Debug\net7.0\IMC definitivo.AssemblyInfo.cs
+C:\Users\53144094889\Desktop\Back-end\IMC definitivo\obj\Debug\net7.0\IMC definitivo.csproj.CoreCompileInputs.cache

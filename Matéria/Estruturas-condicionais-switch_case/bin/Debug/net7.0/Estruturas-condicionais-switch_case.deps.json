@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Estruturas-condicionais-switch_case/1.0.0": {
+        "runtime": {
+          "Estruturas-condicionais-switch_case.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estruturas-condicionais-switch_case/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

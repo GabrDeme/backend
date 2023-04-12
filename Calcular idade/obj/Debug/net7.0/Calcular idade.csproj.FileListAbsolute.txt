@@ -1,0 +1,15 @@
+C:\Users\53144094889\Desktop\Back-end\Calcular idade\bin\Debug\net7.0\Calcular idade.exe
+C:\Users\53144094889\Desktop\Back-end\Calcular idade\bin\Debug\net7.0\Calcular idade.deps.json
+C:\Users\53144094889\Desktop\Back-end\Calcular idade\bin\Debug\net7.0\Calcular idade.runtimeconfig.json
+C:\Users\53144094889\Desktop\Back-end\Calcular idade\bin\Debug\net7.0\Calcular idade.dll
+C:\Users\53144094889\Desktop\Back-end\Calcular idade\bin\Debug\net7.0\Calcular idade.pdb
+C:\Users\53144094889\Desktop\Back-end\Calcular idade\obj\Debug\net7.0\Calcular idade.csproj.AssemblyReference.cache
+C:\Users\53144094889\Desktop\Back-end\Calcular idade\obj\Debug\net7.0\Calcular idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53144094889\Desktop\Back-end\Calcular idade\obj\Debug\net7.0\Calcular idade.AssemblyInfoInputs.cache
+C:\Users\53144094889\Desktop\Back-end\Calcular idade\obj\Debug\net7.0\Calcular idade.AssemblyInfo.cs
+C:\Users\53144094889\Desktop\Back-end\Calcular idade\obj\Debug\net7.0\Calcular idade.csproj.CoreCompileInputs.cache
+C:\Users\53144094889\Desktop\Back-end\Calcular idade\obj\Debug\net7.0\Calcular idade.dll
+C:\Users\53144094889\Desktop\Back-end\Calcular idade\obj\Debug\net7.0\refint\Calcular idade.dll
+C:\Users\53144094889\Desktop\Back-end\Calcular idade\obj\Debug\net7.0\Calcular idade.pdb
+C:\Users\53144094889\Desktop\Back-end\Calcular idade\obj\Debug\net7.0\Calcular idade.genruntimeconfig.cache
+C:\Users\53144094889\Desktop\Back-end\Calcular idade\obj\Debug\net7.0\ref\Calcular idade.dll

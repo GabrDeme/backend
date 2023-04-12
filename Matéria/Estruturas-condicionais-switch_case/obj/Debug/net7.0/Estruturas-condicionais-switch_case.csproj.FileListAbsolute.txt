@@ -1,0 +1,15 @@
+C:\Users\53144094889\Desktop\Back-end\Estruturas-condicionais-switch_case\bin\Debug\net7.0\Estruturas-condicionais-switch_case.exe
+C:\Users\53144094889\Desktop\Back-end\Estruturas-condicionais-switch_case\bin\Debug\net7.0\Estruturas-condicionais-switch_case.deps.json
+C:\Users\53144094889\Desktop\Back-end\Estruturas-condicionais-switch_case\bin\Debug\net7.0\Estruturas-condicionais-switch_case.runtimeconfig.json
+C:\Users\53144094889\Desktop\Back-end\Estruturas-condicionais-switch_case\bin\Debug\net7.0\Estruturas-condicionais-switch_case.dll
+C:\Users\53144094889\Desktop\Back-end\Estruturas-condicionais-switch_case\bin\Debug\net7.0\Estruturas-condicionais-switch_case.pdb
+C:\Users\53144094889\Desktop\Back-end\Estruturas-condicionais-switch_case\obj\Debug\net7.0\Estruturas-condicionais-switch_case.csproj.AssemblyReference.cache
+C:\Users\53144094889\Desktop\Back-end\Estruturas-condicionais-switch_case\obj\Debug\net7.0\Estruturas-condicionais-switch_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53144094889\Desktop\Back-end\Estruturas-condicionais-switch_case\obj\Debug\net7.0\Estruturas-condicionais-switch_case.AssemblyInfoInputs.cache
+C:\Users\53144094889\Desktop\Back-end\Estruturas-condicionais-switch_case\obj\Debug\net7.0\Estruturas-condicionais-switch_case.AssemblyInfo.cs
+C:\Users\53144094889\Desktop\Back-end\Estruturas-condicionais-switch_case\obj\Debug\net7.0\Estruturas-condicionais-switch_case.csproj.CoreCompileInputs.cache
+C:\Users\53144094889\Desktop\Back-end\Estruturas-condicionais-switch_case\obj\Debug\net7.0\Estruturas-condicionais-switch_case.dll
+C:\Users\53144094889\Desktop\Back-end\Estruturas-condicionais-switch_case\obj\Debug\net7.0\refint\Estruturas-condicionais-switch_case.dll
+C:\Users\53144094889\Desktop\Back-end\Estruturas-condicionais-switch_case\obj\Debug\net7.0\Estruturas-condicionais-switch_case.pdb
+C:\Users\53144094889\Desktop\Back-end\Estruturas-condicionais-switch_case\obj\Debug\net7.0\Estruturas-condicionais-switch_case.genruntimeconfig.cache
+C:\Users\53144094889\Desktop\Back-end\Estruturas-condicionais-switch_case\obj\Debug\net7.0\ref\Estruturas-condicionais-switch_case.dll
